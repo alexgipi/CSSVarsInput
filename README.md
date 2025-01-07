@@ -1,4 +1,4 @@
-# `@flexiui/svelte-cssvars
+# @flexiui/svelte-cssvars
 
 Un componente para Svelte que facilita la creación y gestión de variables CSS de manera cómoda, eficiente y personalizable. Permite definir, editar y visualizar variables dinámicamente, con opciones como validación, valores predeterminados, labels en múltiples idiomas, y una serie de campos predefinidos para facilitar la edición de variables.
 
